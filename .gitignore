@@ -2,6 +2,8 @@
 /.old
 /.idea
 /smartystreets-java-sdk.iml
-
+.classpath
+.project
+.settings/
 target
 .vagrant/machines/default/virtualbox
